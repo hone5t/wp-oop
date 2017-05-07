@@ -1,0 +1,8 @@
+composer.phar
+vendor/
+wp/
+composer.lock
+assests/
+node_modules/
+static/
+config/wp-config.development.php
