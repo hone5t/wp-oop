@@ -33,7 +33,11 @@ npm install
 gulp
 ```
 proceed to install wordpress once installed delete wp-config file and move wp to new directory name it wp.
+create new production configuration
 
+```
+cp config/wp-config.staging.php config/wp-config.development.php
+```
 
 ## Deployment
 
