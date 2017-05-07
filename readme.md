@@ -10,9 +10,9 @@ first git clone the project
 ```
 git clone https://github.com/hone5t/wp-oop.git
 ```
-download wordpress (https://wordpress.org/download/)
-download and install composer (https://getcomposer.org/download/)
-download and install npm (https://nodejs.org/en/download/)
+* download [wordpress](https://wordpress.org/download/)
+* download and install [composer](https://getcomposer.org/download/)
+* download and install [npm](https://nodejs.org/en/download/)
 
 ### Prerequisites
 if you installed the requiremtns above then you need to download the require
